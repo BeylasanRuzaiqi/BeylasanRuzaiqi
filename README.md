@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **a sign language recognition app**
 
-- 👯 I’m looking to collaborate on **ML projects !**
-
 - 💬 Ask me about **python and AI !**
 
 - ⚡ Fun fact : **I'm learning spanish**
